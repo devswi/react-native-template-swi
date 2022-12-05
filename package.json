@@ -1,5 +1,5 @@
 {
-  "name": "@swi/react-native-template",
+  "name": "@swizm/react-native-template",
   "version": "0.0.1",
   "description": "React Native Template",
   "author": "shiwei93 <stayfocusjs@gmail.com>",
@@ -10,7 +10,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shiwei93/react-native-template-swi"
+    "url": "git+https://github.com/shiwei93/react-native-template-swi.git"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   },
   "homepage": "https://github.com/shiwei93/react-native-template-swi",
   "keywords": [
@@ -20,5 +24,9 @@
     "boilerplate",
     "starter",
     "typescript"
-  ]
+  ],
+  "bugs": {
+    "url": "https://github.com/shiwei93/react-native-template-swi/issues"
+  },
+  "main": "script.js"
 }
