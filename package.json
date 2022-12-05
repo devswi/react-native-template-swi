@@ -1,7 +1,24 @@
 {
-  "name": "react-native-template-swi",
+  "name": "@swi/react-native-template",
   "version": "0.0.1",
   "description": "React Native Template",
-  "author": "Wei Shi <stayfocusjs@gmail.com>",
-  "license": "MIT"
+  "author": "shiwei93 <stayfocusjs@gmail.com>",
+  "license": "MIT",
+  "files": [
+    "template",
+    "template.config.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiwei93/react-native-template-swi"
+  },
+  "homepage": "https://github.com/shiwei93/react-native-template-swi",
+  "keywords": [
+    "react",
+    "native",
+    "template",
+    "boilerplate",
+    "starter",
+    "typescript"
+  ]
 }
